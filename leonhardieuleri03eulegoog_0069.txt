@@ -1,0 +1,39 @@
+quae integratio est manifesta.
+
+Problema 99.
+
+812. Si aequatio dillerentio·differentialis tum demum fiat bo-
+mogenea, si alteri variabili y tribuantur η dimensiones, ejus inte·
+grationem ad aequationem differentialem primi gradus reducere. φ
+
+Solutio.
+
+ι Posito ayzpdx et dpzqu, ut oriatur aequatio inter
+quaternas quantitates finitas os, y, p et q, quae quomodo ratione
+· homogeneitatis sutura sit comparata, videamus. Primo ergo cum
+pro sa unam dimensionem numerando, variabilis y habeat n dimen-
+
+siones, quantitati p 233} tribuendae sunt n -1 dimensiones, quan-
+
+titati <7:32 vero n—2 dimensiones. Quocirca ponamus .
+
+yleu, p:x“*¹t‚ et q:x”*²o,
+et ob dy--pdoe et ὸρῑᾳὸω, habebimus
+xhn÷naaczthaeetxdt÷(n—1)rhx:rhc,
+
+unde colligimus
+
+dx„- du ,- dt
+a-f-Ta-tr-qs-,Tw
+ideoque
+
+bura—(n- t)t}:dt(t-nnl.
+
+ht factis superioribus substitutionibus in aequatione inter x, y, p
+et q, per hypothesin variabilis x ex calculo extruditur, ita utpro· Α
+deas aequatio inter tres tantum variabiles ιι, t et u, ex qua litte·
+ram v per binas t ctu definire licebit. Quo valore substituto ha-
+bebitur aequatio differentialis primi gradus inter binas variabiles ιι
+
+ 
+

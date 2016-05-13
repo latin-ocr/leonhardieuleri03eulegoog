@@ -1,0 +1,26 @@
+CAPUT ΠΙ.
+
+DE
+
+ι mmmmm AEQUAmoNUM nmfmmmmmm nums
+FORMAE
+
+Problema 147.
+
+t 138.
+Proposita aequatione differentiali
+
+sumto eiemento 0ae constante, et 'significante X functionem quam·
+cunque ipsius x, invenire functionem ipsius x, ,per quam haec
+aequatio multiplicata integrabilis evttlat.
+
+S-ointio.
+
+Sit Pax iste·muitiplicator quem quaqrimtts, et pum prius
+membrum X eo integrabile reddatur, ejus rationem ex altero mem·
+bro definiri oportet. Facile autem intelligitur, formam hujus multi·
+plicatoris P ejusmodi fore αλκ, ita ut quantitas λ definiri debeat.
+Sit ergo eta bx multiplicator, ιαμ hanc sormam ‘
+
+ 
+

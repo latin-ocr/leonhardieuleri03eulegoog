@@ -1,0 +1,49 @@
+carue ιιι. ι ἰ,
+
+. men ut ipsi una dimensio negativa sit tribuenda; littera autcmp
+in hunc computum plane non ingreditur, quae ergo utcunque acy
+quationi implicetur, homogeneitatcm non turbat. Plurimum autem
+interest probe nosse indolem differentio- differentialium aequationum
+homogenearum, cum earum resolutio ad resolutionem aequationun
+differentialium primi gradus reduci possit, ita ut si haee successerit,
+4 etiam ipsarum aequationum differentio· differentialium integratio ha·
+’ · beatur, id quod in sequenti problemate luculentius ostendemus. ’
+
+Problema 98.
+
+705. Proposita aequatione differentia-differentiali homogenea,
+ejus resolutionem ad integrationem aequationis differentialis ‘primi
+gradus reducere.
+
+solutio.
+
+Reducta aequatione ponendo dyzpdx et dyrz‘qu ad
+sormam hic receptam, ut habeatur aequatio inter quatuor quantita·
+
+res finitas x, y,p et q, ponatur ,ιτ-ιιι et (ιζ-ἒ, aecumae· ¹
+
+quatio sit homogenea, hoe modo quantitas oc penitus err calculo eli·
+detur, ita ut proditura sit aequatio inter ternas quantitates ιι, v et x
+p, err qua unam per binas reliquas definire liceat. &Nunc ‘igiturcum
+
+sitdy: ρὸω,ιιίιιιὸιι-·.;“.-ι-ιὸιι pdx, hincque?
+
+indeobdp: &meridia-‘32 —-,ideoque ἶ-ἷῑῖῗ, ex quo*
+
+duplici ipsius-⁸3 valore colligitur ΓΞ <v —P-,zseuvou pdp- adp ’
+
+Quodsi ergo ex illa aequatione quantitas v deliniatur per binas p, ’
+
+et ιι, habebitur aequatio differentialis primi gradus ιιι er binas ra·
+
+riabiles p et ιι, cujus integratio si tuerit in potestate, ut p per ιι
+innotescat aequatioae ζ·- ζὲ, ιιι qua variabiles x el ἰι suni St·
+paratae, integr·t·,eur sicque :e per ιι definre ur unde lit yzux3
+seu statim in hoc integrali loco ιι scribatur-y- ἦ, et habebitur aequa
+
+tio iuter xe ety quaesitam
+
+, t
+
+ 
+

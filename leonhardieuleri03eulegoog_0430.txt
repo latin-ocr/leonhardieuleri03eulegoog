@@ -1,0 +1,39 @@
+CAPUT V.
+
+corollarium 3.
+
+1270. Hoc valore invento. quia cst eodem casa zzz—a,
+
+quantitas Q z §3³32 erit
+
+ex quibus formulis, si faetores ipsius P non sint evoluti, partes
+integralis facilius reperiantur.
+
+Problema 173.
+
+1271. Si pro aequationie differentiali praecedente quantitas
+sigebraica P inde formala factorem habeat cubicum (or-l-z)³, inte·
+graiis partem inde oriundam investigare.
+
+Solutio'.
+
+Ponamus ergo esse
+P: (α 4 z)² (γ -i- z) R, existente ’γε-..- α —- ω,
+
+ubi ω pro quantitate evanescente assumitur. Quod ergo ante erat
+Q, id hino fit Q: (γ -r- z) R, et facto z:·-0c, erit Q:- ω R,
+si etiam 'in R 'ponatur z :t - α. Deinde cum sit
+
+eodem casu erit
+
+Quocirca ex faetore quadrato (a -l- z)² per praecedens xproblema
+’ haec obtinetur integralis para
+
+) x··² f x‘ X ὸ x,
+cujas ambo membra ln infinitum excrescunt ob a: 0.
+adjiciamus autera partem ex tertio faetore
+
+u-t-zza-u-r-z, ·”
+
+ 
+

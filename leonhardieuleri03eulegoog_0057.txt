@@ -1,0 +1,41 @@
+dd ’ CAPUT 1110
+
+'gulis aequationis terminia idem oriatur dimensionum numerus. Vicis-
+sim ergo quoties haee proprietas in aequatione inter quaternas quau· '
+titates' aa, y, p et q proposita deprehenditur, ea aequatio erit ho·
+mogenea et forma vulgari expressa manifesto homogeneitatem. prae
+se feret. '
+
+corollarium t.
+
+7'91. Si ergo in aequatione tali homogenea inter x, φρ
+et q statuatur y: ux et q: -Ξ, omnes. termini eandem potesta·
+
+tem ipsius a: continebunt, qua ergo per ¹divisionem sublata, aequa·
+tiu prodibit tres tantum variabiles ιι, v et p involvens.
+
+Corollarium 2.
+
+7 92. 'criterium igitur aequationis homogeneae inter quatuor
+quantitates x, y,p et q propositae in hoc ¹consistit, ut posito
+
+νῖκαι et (133, quantitas x prorsus ex calculo exterminetur„
+
+Corollarium 3.
+
+793. Facta itaque hac substitutione, qua obtinetur aequatio
+inter ternas quantitates ιι, u et p, ex ea pro lubitu rel p per ιι,
+Ι et v, vel v per ιι etp, rel ιι per v etp definiri poterit.
+
+‘Scholion
+
+tol. Simili modo ideam homogeneitatis in aequatIonssnus dir-
+.ferentio·differentialibus constituimus, quo in aequationibus differentia·
+libus primi gradus sumus usi. In his quidem, cum differentialia
+sponte eundem dimensionum numerum constituere debeant, homoge-
+neitas ex solis ipsis variabilibus ω et y dijudicatur. At in aequa·
+, tionibus differentio - differentialibus praeter ipsas variabiles a ety
+etiam litterae q ratio in computo dimensionum haberi debet, itata·
+
+ 
+

@@ -1,0 +1,43 @@
+CAPUT 1.
+
+Corollarium 3.·
+
+709. Methodus ergo desideratur, proposita aequatione qua.
+cunque praeter binas variabiles x et y, etiam quantitates 12:332·
+
+et q:}3 involvente, inveniendi relationem inter ipsas x et y, un·
+
+de pateat, qualis y sit functio ipsius or, seu vicissim.
+
+Scholion 1.
+
+110. Hoc modo litteram q introducendo aequationes dire·
+tentio-differentiales a conditione illa, qua quodpiam differentialc
+primi gradus pro constante assumi solet, liberantur. Cum euim ad
+meras quantitates finitas revocentur, quae rationem differentialium
+primi gradus exprimunt, consideratio differentialis constantis ne lo·
+cum quidem habere potest. Quando ergo aequationes differentio-
+diffcrentiales more solito ita exhibentur, ut quodpiam differentiale
+
+constans sit assumtum, introducendo litteras μεθ-ζ et <7:322
+species differentialium penitus tollitur, dum aequatio tautum quanti-
+tates linitas complectitur. Atque etiam vicissim proposita aequatio.
+ne inter quantitates finitas cc, y, p, q, ea ad sormam vulgarem in·
+finitis modis reduci potest, prout aliud atque aliud differentiale pro
+constante assumitur, quae tamen omnes formae specie diversae iu· ’
+ter se perfecte conveniunt, quin etiam nullo dinerenttati constante
+
+assumto evolutio in sormam solitam fieri potest.
+
+Scholion 2.
+
+rtt. Primum igitur breviter exponi conveniet, quomodo ae·
+quatio more solito per differentiam secundi gradus expressa ad sor·
+mam nostram reduci queat, quodcunque differentiale constans luerit
+assumtum. sit dr hoc differentiale pro constante sumtum, eujus
+
+ergo ratio ad dx, ob }{:p, per p et sorte ipsas variabiles x
+et y datur-3 ponatur ergo ὸεενόω, ut v fiat quantitas finita.
+
+ 
+

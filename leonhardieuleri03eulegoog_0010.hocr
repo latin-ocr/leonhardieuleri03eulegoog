@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./leonhardieuleri03eulegoog_0010.png"; bbox 0 0 4304 5714; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 279 1224 2132 1454">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 114 1091 2132 1538">
+     <span class='ocr_line' id='line_1_1' title="bbox 279 1224 2132 1454; baseline 0.016 -35.384"><span class='ocrx_word' id='word_1_1' title='bbox 279 1224 1866 1454; x_wconf 75' lang='lat' dir='ltr'><strong>CALCULIINTEGRALIS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2131 1262 2132 1266; x_wconf 0' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 490 1558 1679 1752">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 490 1558 1679 1752">
+     <span class='ocr_line' id='line_1_2' title="bbox 490 1558 1679 1752; baseline 0.012 -59"><span class='ocrx_word' id='word_1_3' title='bbox 490 1558 494 1564; x_wconf 80' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 631 1584 1504 1752; x_wconf 66' lang='lat' dir='ltr'>LIBERPMOR„</span> <span class='ocrx_word' id='word_1_5' title='bbox 1673 1744 1679 1752; x_wconf 8' lang='grc' dir='ltr'>ὓ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 756 1833 1370 1852">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 756 1833 1370 1852">
+     <span class='ocr_line' id='line_1_3' title="bbox 756 1833 1370 1852; baseline 0 -3"><span class='ocrx_word' id='word_1_6' title='bbox 756 1833 1370 1852; x_wconf 53' lang='lat' dir='ltr'><strong>m*</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 731 1974 1412 2125">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 731 1974 1412 2125">
+     <span class='ocr_line' id='line_1_4' title="bbox 731 1974 1412 2125; baseline 0.006 -42"><span class='ocrx_word' id='word_1_7' title='bbox 731 1974 926 2085; x_wconf 80' lang='lat' dir='ltr'>PARS</span> <span class='ocrx_word' id='word_1_8' title='bbox 992 1976 1412 2125; x_wconf 81' lang='lat' dir='ltr'>SECUNDA,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1013 2150 1126 2208">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1013 2150 1126 2208">
+     <span class='ocr_line' id='line_1_5' title="bbox 1013 2150 1126 2208; baseline -0.009 0"><span class='ocrx_word' id='word_1_9' title='bbox 1013 2150 1126 2208; x_wconf 77' lang='lat' dir='ltr'><strong>SEU</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 312 2261 2049 2368">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 312 2261 2049 2368">
+     <span class='ocr_line' id='line_1_6' title="bbox 312 2261 2049 2368; baseline 0.009 -21"><span class='ocrx_word' id='word_1_10' title='bbox 312 2270 598 2351; x_wconf 70' lang='lat' dir='ltr'>METHosz</span> <span class='ocrx_word' id='word_1_11' title='bbox 632 2272 947 2368; x_wconf 65' lang='lat' dir='ltr'><strong>mmmmm</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 981 2277 1308 2356; x_wconf 77' lang='lat' dir='ltr'><strong>FUNCTIONES</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1343 2277 1495 2355; x_wconf 74' lang='lat' dir='ltr'>umus</span> <span class='ocrx_word' id='word_1_14' title='bbox 1529 2280 1823 2361; x_wconf 68' lang='lat' dir='ltr'><strong>vAssumms</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1973 2335 1975 2338; x_wconf 13' lang='grc' dir='ltr'><em>ν</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 2045 2261 2049 2268; x_wconf 85' lang='grc'><em>’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 387 2443 1746 2696">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 387 2443 1746 2696">
+     <span class='ocr_line' id='line_1_7' title="bbox 387 2443 1746 2529; baseline 0.007 -9"><span class='ocrx_word' id='word_1_17' title='bbox 387 2443 461 2520; x_wconf 82' lang='lat' dir='ltr'><strong>EX</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 493 2447 633 2524; x_wconf 67' lang='lat' dir='ltr'>DATA</span> <span class='ocrx_word' id='word_1_19' title='bbox 663 2448 964 2525; x_wconf 83' lang='lat' dir='ltr'>RELATIONE</span> <span class='ocrx_word' id='word_1_20' title='bbox 998 2448 1484 2526; x_wconf 83' lang='lat' dir='ltr'><strong>DlFFERENTIALIUM</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 1520 2452 1746 2529; x_wconf 85' lang='lat' dir='ltr'><strong>SECUNDI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 779 2617 1345 2696; baseline -0.004 0"><span class='ocrx_word' id='word_1_22' title='bbox 779 2617 1092 2696; x_wconf 84' lang='lat' dir='ltr'><strong>ALTIORISVE</strong></span> <span class='ocrx_word' id='word_1_23' title='bbox 1127 2617 1345 2696; x_wconf 80' lang='lat' dir='ltr'><strong>GRADUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 621 2851 1443 3117">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 621 2851 1443 3117">
+     <span class='ocr_line' id='line_1_9' title="bbox 621 2851 1443 3117; baseline 0.004 -124"><span class='ocrx_word' id='word_1_24' title='bbox 621 2851 1443 3117; x_wconf 51' lang='grc' dir='ltr'><strong>εΕοΤΙοΒξΒΙΜΑ,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 270 3149 1858 3440">
+    <p class='ocr_par' dir='ltr' id='par_1_9' title="bbox 270 3149 1858 3440">
+     <span class='ocr_line' id='line_1_10' title="bbox 270 3149 1858 3284; baseline -0.003 -15"><span class='ocrx_word' id='word_1_25' title='bbox 270 3183 639 3268; x_wconf 62' lang='grc' dir='ltr'><strong>κεεοιυτιοΝΕ</strong></span> <span class='ocrx_word' id='word_1_26' title='bbox 678 3149 1062 3284; x_wconf 73' lang='lat' dir='ltr'><strong>AEQUATIONUM</strong></span> <span class='ocrx_word' id='word_1_27' title='bbox 1103 3185 1589 3264; x_wconf 74' lang='lat' dir='ltr'><strong>DIFFERENTIALIUM</strong></span> <span class='ocrx_word' id='word_1_28' title='bbox 1632 3185 1858 3264; x_wconf 69' lang='lat' dir='ltr'><strong>sneuNm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 312 3355 1769 3440; baseline 0.003 -11"><span class='ocrx_word' id='word_1_29' title='bbox 312 3423 318 3429; x_wconf 82' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_30' title='bbox 360 3356 565 3440; x_wconf 68' lang='lat' dir='ltr'>eamus</span> <span class='ocrx_word' id='word_1_31' title='bbox 598 3358 729 3439; x_wconf 67' lang='lat' dir='ltr'><strong>oms</strong></span> <span class='ocrx_word' id='word_1_32' title='bbox 762 3357 979 3437; x_wconf 76' lang='lat' dir='ltr'><strong>TANTUM</strong></span> <span class='ocrx_word' id='word_1_33' title='bbox 1011 3356 1317 3437; x_wconf 53' lang='lat' dir='ltr'><strong>mammas</strong></span> <span class='ocrx_word' id='word_1_34' title='bbox 1351 3355 1769 3438; x_wconf 74' lang='lat' dir='ltr'><strong>INVOLVENTIUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 0 0 2156 5714">
+    <p class='ocr_par' dir='ltr' id='par_1_10' title="bbox 0 0 2156 5714">
+     <span class='ocr_line' id='line_1_12' title="bbox 0 0 2156 5714; baseline 0 0"><span class='ocrx_word' id='word_1_35' title='bbox 0 0 2156 5714; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
